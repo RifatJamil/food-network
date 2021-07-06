@@ -9,6 +9,12 @@ background-image: linear-gradient(135deg, #d7f8ff 0%, #ffffff 83%);
     font-size: 30px;
     margin: 0;
 }
+.text-color{
+    color: #1b98b8;
+}
+#razer{
+    color: rgb(0, 196, 0);
+}
 h1{
     font-size: 80px;
 }
@@ -52,6 +58,9 @@ h2{
     font-weight: 500;
 
 }
+.link-button:hover{
+        box-shadow: 15px 30px 60px rgba(0,0,0,0.2);
+       }
 .card{
     width: 40%;
     box-shadow: 10px 20px 30px rgba(0,0,0,0.2);
