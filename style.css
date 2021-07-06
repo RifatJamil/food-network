@@ -69,3 +69,12 @@ h2{
 .container{
     padding: 5px 16px;
 }
+.card-text{
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+
+}
